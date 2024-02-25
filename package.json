@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "expess": "^0.0.1-security",
+    "express": "^4.18.2",
+    "joi": "^17.12.2",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.2.0",
+    "nodemon": "^3.1.0"
+  },
+  "name": "angelodb",
+  "version": "1.0.0",
+  "main": "program.js",
+  "scripts": {
+    "name": "nodemon program.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
